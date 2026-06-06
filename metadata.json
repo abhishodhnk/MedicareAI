@@ -1,0 +1,6 @@
+{
+  "name": "Medicare AI",
+  "description": "An intelligent medical assistant utilizing LLM & RAG to assist you with symptom analysis, prescription breakdown, and educational material about medical terminology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
